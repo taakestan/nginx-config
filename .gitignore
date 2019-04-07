@@ -1,3 +1,4 @@
 /conf.d/*
 /sites-enabled/*
 /cache/*
+.DS_Store
